@@ -4,6 +4,6 @@ Mit dem Superstaubsauger™ können Sie Ihr Zuhause in kürzester Zeit blitzblan
 
  Erleben Sie die Kraft des Superstaubsaugers™ und geniessen Sie ein staubfreies Zuhause wie nie zuvor!
  
-* oder eso
+*oder eso
  
 ![Bild 1](img/stuabsauger.png)
