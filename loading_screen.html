@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Zahlung wird verarbeitet</title>
+    <link rel="stylesheet" href="finish.css">
+    <script>
+      // Funktion zur Weiterleitung nach 3 Sekunden
+      function redirectToThankYouPage() {
+        setTimeout(function() {
+          window.location.href = "finish.html";
+        }, 3000); // 3000 Millisekunden = 3 Sekunden
+      }
+    </script>
+  </head>
+  <body onload="redirectToThankYouPage()">
+    <div class="success-container">
+      <h1>Zahlung wird verarbeitet</h1>
+      <img src="img/loading.gif" alt="Bild 1" width="400">
+      <br>
+    </div>
+  </body>
+</html>

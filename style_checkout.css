@@ -1,0 +1,70 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .cart {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 500px;
+    margin: 0 auto;
+  }
+  
+  .cart h2 {
+    margin-top: 0;
+  }
+  
+  .cart-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .payment {
+    margin-top: 20px;
+  }
+  
+  .payment label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .payment input[type="text"] {
+    width: 100%;
+    padding: 5px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    border: 1px solid #ccc;
+  }
+  
+  .terms {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .terms input[type="checkbox"] {
+    margin-right: 5px;
+  }
+  
+  .payment button {
+    background-color: #ff6600;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .payment button:hover {
+    background-color: #ad4500c6;
+  }
